@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SusMyth
-- 👀 I’m interested in singing, gaming, editing, coding and best of all SLEEPING
+- 👀 I’m interested in singing, gaming, editing, coding
 - 🌱 I’m currently learning Java
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a CS major who takes a shower everyday (exceptionally human XD)
