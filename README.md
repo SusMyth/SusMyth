@@ -1,4 +1,4 @@
-# Hey, I'm Sasmit 👋
+# Heyo, I'm Sasmit :D
 
 *An observer by instinct. An engineer by curiosity.*
 
