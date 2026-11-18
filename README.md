@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080F1D,50:123D50,100:1C7A83&height=230&section=header&text=SASMIT%20MISHRA&fontSize=48&fontColor=E8F6F8&fontAlignY=38&desc=THE%20OBSERVER&descAlignY=59&descSize=19&animation=fadeIn" alt="Sasmit Mishra — The Observer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080F1D,50:123D50,100:1C7A83&height=230&section=header&text=SASMIT%20MISHRA&fontSize=48&fontColor=E8F6F8&fontAlignY=38&desc=ROCHESTER%20INSTITUTE%20OF%20TECHNOLOGY&descAlignY=59&descSize=19&animation=fadeIn" alt="Sasmit Mishra — The Observer" />
 
 ### Heyy, I'm Sasmit :D
 
