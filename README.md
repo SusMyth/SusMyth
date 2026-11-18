@@ -15,6 +15,16 @@ I enjoy breaking down complex systems, understanding what makes them tick, and b
 **Observe. Understand. Create.**
 
 
+## 🛠️ Things I've Built
+
+| Project | Description | Tech |
+|---|---|---|
+| **[Scheduler](YOUR_REPO_URL)** | A visual scheduling tool with interactive time-blocking and multiple calendars. | React, Next.js, TypeScript |
+| **[LLM Safety Research](YOUR_REPO_URL)** | Exploring how quantization affects language model safety and robustness. | Python, PyTorch, Transformers |
+| **[Mandelbrot Explorer](YOUR_REPO_URL)** | An interactive fractal renderer optimized with multithreading. | Java, JavaFX |
+| **[Echoasis](YOUR_REPO_URL)** | A desktop application for recording, transcribing, and managing audio. | Python, MySQL |
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sasmit-mishra-32848027b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sasmit.mishra@gmail.com) 
 
