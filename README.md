@@ -1,190 +1,134 @@
 
-<!-- ======================================================= -->
-<!--               THE OBSERVER // SASMIT MISHRA              -->
-<!--              Observe. Understand. Create.                -->
-<!-- ======================================================= -->
+<!-- THE OBSERVER — GitHub Profile README -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080F1D,50:123D50,100:1C7A83&height=230&section=header&text=SASMIT%20MISHRA&fontSize=48&fontColor=E8F6F8&fontAlignY=38&desc=THE%20OBSERVER&descAlignY=59&descSize=19&animation=fadeIn" alt="Sasmit Mishra - The Observer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080F1D,50:123D50,100:1C7A83&height=230&section=header&text=SASMIT%20MISHRA&fontSize=48&fontColor=E8F6F8&fontAlignY=38&desc=THE%20OBSERVER&descAlignY=59&descSize=19&animation=fadeIn" alt="Sasmit Mishra — The Observer" />
 
-### `OBSERVER / SYSTEM_001`
+### Heyy, I'm Sasmit :D
 
-**An observer by instinct. An engineer by curiosity.**
+*An observer by instinct. An engineer by curiosity.*
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1100&color=65D6D1&center=true&vCenter=true&width=550&height=45&lines=I+observe+patterns.;I+question+systems.;I+build+experiences.;I+make+things+make+sense." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1100&color=65D6D1&center=true&vCenter=true&width=550&height=45&lines=I+observe+patterns.;I+question+systems.;I+build+experiences.;Sometimes+I+just+break+things." alt="A few things about how I work" />
 
-<br/>
+<br />
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B1524?style=for-the-badge&logo=vercel&logoColor=65D6D1)](https://github.com/SusMyth)
+[![About Me](https://img.shields.io/badge/ABOUT_ME-0B1524?style=for-the-badge&logo=readme&logoColor=65D6D1)](https://bold.pro/my/sasmit-mishra)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B1524?style=for-the-badge&logo=linkedin&logoColor=65D6D1)](https://linkedin.com/in/sasmit-mishra-32848027b)
-[![Email](https://img.shields.io/badge/CONTACT-0B1524?style=for-the-badge&logo=gmail&logoColor=65D6D1)](mailto:sasmit.mishra@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-0B1524?style=for-the-badge&logo=gmail&logoColor=65D6D1)](mailto:sasmit.mishra@gmail.com)
 
-<sub>COMPUTER SCIENCE @ RIT · AI RESEARCH · PRODUCT ENGINEERING</sub>
+<sub>Computer Science @ RIT · AI Research · Software & Product Engineering</sub>
 
 </div>
 
-<br/>
+<br />
 
 ---
 
-## `01 / THE MIND BEHIND THE MACHINE`
+## A bit about me
 
-### Curiosity is the algorithm.
+I'm a Computer Science student at **Rochester Institute of Technology**. I like understanding how things work — from algorithms and AI models to the little design decisions that make an app feel effortless.
 
-Heyo, I'm **Sasmit** — a Computer Science student at **Rochester Institute of Technology**.
+I tend to notice something that could work better, think about it for too long, and eventually try building my own version.
 
-I'm drawn to the space where **technology, human behavior, and creativity** intersect.
-
-I enjoy breaking down complex systems, understanding what makes them tick, and building things that make sense to both machines and people.
-
-I don't just want to know *how* something works. I want to understand *why* it works that way — and whether it could work better.
+Outside coding, I'm usually bouncing between music, design, psychology, and whatever has caught my attention that week.
 
 ```python
-class Observer:
-    def __init__(self):
-        self.name = "Sasmit"
-        self.alias = "SusMyth"
-        self.location = "Rochester, NY"
-        self.interests = [
-            "Artificial Intelligence",
-            "Product Engineering",
-            "Human-Computer Interaction",
-            "Psychology & Design"
-        ]
+interests = ["AI", "product engineering", "human behavior", "design"]
 
-    def approach(self, problem):
-        observe(problem)
-        understand(problem)
-        return create_something_better(problem)
+for idea in things_i_find_interesting:
+    observe(idea)
+    question(idea)
+    maybe_build_something(idea)
 ```
 
-> **Currently exploring:** Intelligent systems, AI safety, human-centered software, and the art of turning complex ideas into intuitive experiences.
+**Right now:** Exploring LLM safety, building interactive software, and learning how to make useful things feel intuitive.
 
-<br/>
+<br />
 
 ---
 
-## `02 / THE ARCHIVES`
+## Things I've built
 
-### Things I've Built.
+*Some finished, some still evolving. All of them taught me something.*
 
-*A collection of ideas that escaped my head and became software.*
+### Scheduler · Making time a little easier to manage
 
-<br/>
+A visual scheduling app born from wanting to see different parts of a week in one place, without constantly switching calendars.
 
-### `PROJECT_001` — Scheduler
+- A seven-day view with 30-minute blocks
+- Drag to select or erase time slots
+- Multiple color-coded schedules, with visibility controls
+- Saved schedules that persist between sessions
 
-**One place for every schedule.**
+**Stack:** `React` · `Next.js` · `TypeScript` · `Tailwind CSS`
 
-A visual scheduling application built to make managing multiple routines simpler, more intuitive, and less chaotic.
+[![See the code](https://img.shields.io/badge/VIEW_PROJECT-123D50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SusMyth/Scheduler)
 
-Rather than treating schedules as disconnected calendars, Scheduler brings everything into a single interactive workspace.
+<br />
 
-**Engineering highlights**
-- Interactive weekly calendar with 30-minute time blocks
-- Drag-to-select and erase functionality
-- Multiple color-coded schedules with visibility controls
-- Persistent scheduling data and responsive interface
+### Mandelbrot Explorer · A little obsession with infinity
 
-**Built with:** `React` · `Next.js` · `TypeScript` · `Tailwind CSS`
+An interactive JavaFX renderer for exploring the Mandelbrot set. The fun part was getting it to render faster without losing the ability to zoom around and experiment.
 
-[![Explore Scheduler](https://img.shields.io/badge/EXPLORE_PROJECT-123D50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SusMyth/Scheduler)
-
-<br/>
-
-### `PROJECT_002` — Mandelbrot Explorer
-
-**Exploring infinity, one pixel at a time.**
-
-An interactive fractal visualization application that renders the Mandelbrot set with real-time exploration and optimized computation.
-
-What began as a mathematical visualization became an exercise in performance engineering and concurrent programming.
-
-**Engineering highlights**
 - Interactive zooming and navigation
 - Adjustable fractal parameters
-- Multithreaded rendering architecture
-- Reduced rendering time from **4.5 seconds to 1.2 seconds**
+- Multithreaded rendering
+- Improved render time from **4.5s to 1.2s**
 
-**Built with:** `Java` · `JavaFX` · `Multithreading`
+**Stack:** `Java` · `JavaFX` · `Multithreading`
 
-[![Explore Mandelbrot](https://img.shields.io/badge/EXPLORE_PROJECT-123D50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SusMyth/Fractal-Mandelbrot-Explorer)
+[![See the code](https://img.shields.io/badge/VIEW_PROJECT-123D50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SusMyth/Fractal-Mandelbrot-Explorer)
 
-<br/>
+<br />
 
-### `PROJECT_003` — Echoasis
+### Echoasis · A home for little recordings
 
-**Giving sound a place to live.**
+A desktop app for recording, replaying, transcribing, and managing audio. It brought together some of my favorite things to experiment with: interfaces, speech, and data.
 
-A Python desktop application for recording, playing, transcribing, and managing audio through an accessible graphical interface.
+- Record, play, and delete audio
+- Speech-to-text transcription
+- Login and user accounts backed by MySQL
+- Multithreaded recording so the UI stays responsive
 
-A project combining desktop development, audio processing, speech recognition, and database management.
+**Stack:** `Python` · `CustomTkinter` · `MySQL` · `SpeechRecognition`
 
-**Engineering highlights**
-- Audio recording, playback, and deletion
-- Speech-to-text functionality
-- User authentication and account management
-- MySQL-backed data storage
-- Multithreaded audio recording
+[![See the code](https://img.shields.io/badge/VIEW_PROJECT-123D50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SusMyth/Echoasis)
 
-**Built with:** `Python` · `CustomTkinter` · `MySQL` · `SpeechRecognition`
-
-[![Explore Echoasis](https://img.shields.io/badge/EXPLORE_PROJECT-123D50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SusMyth/Echoasis)
-
-<br/>
+<br />
 
 <details>
-<summary><b>+ More from the archive</b></summary>
+<summary><b>Other things I've worked on</b></summary>
 
-<br/>
-
-**Puzzle Solver Suite**  
-A collection of puzzle-solving applications using breadth-first search and reusable Java architectures.
-
-**Music Database System**  
-A relational database project exploring music, artists, listening behavior, and relationships through PostgreSQL.
-
-**PseudoLang**  
-An experimental exploration of making programming feel more natural through pseudocode-inspired syntax.
+- **Puzzle Solver Suite:** A set of Java puzzle solvers built around breadth-first search.
+- **Music Database System:** A relational music-data project using PostgreSQL.
+- **PseudoLang:** An early experiment with pseudocode-inspired programming.
 
 </details>
 
-<br/>
+<br />
 
 ---
 
-## `03 / THE RESEARCH LAB`
+## A little research, too
 
-### Asking questions that don't have simple answers.
+### Can smaller language models still be safe?
 
-**Undergraduate Research — LLM Safety & Quantization**
+During undergraduate research, I explored how **quantization** can change the safety and utility of large language models. I tested models with adversarial prompts and evaluated their behavior using tools and benchmarks including **PyTorch, Hugging Face Transformers, MMLU, and TruthfulQA**.
 
-My research explores how quantization affects the safety, robustness, and utility of large language models.
+I wrote a paper and presented the work at the **2026 RIT Undergraduate Research Symposium**.
 
-Using **Python, PyTorch, and Hugging Face Transformers**, I investigated model behavior under adversarial prompting and evaluated performance using safety and knowledge benchmarks.
+`LLM safety` · `Quantization` · `Adversarial evaluation` · `PyTorch`
 
-**Research focus**
-- Quantization attacks and defenses
-- Adversarial prompting and refusal behavior
-- Model safety versus utility
-- Evaluation using MMLU and TruthfulQA
-
-**Milestone:** Authored a research paper and presented findings at the **RIT Undergraduate Research Symposium (2026)**.
-
-`#LLM-Safety` `#Quantization` `#PyTorch` `#Adversarial-ML`
-
-<br/>
+<br />
 
 ---
 
-## `04 / THE TOOLKIT`
-
-### The tools are temporary. The thinking stays.
+## What I build with
 
 <div align="center">
 
-**LANGUAGES**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-0B1524?style=for-the-badge&logo=python&logoColor=65D6D1)
 ![Java](https://img.shields.io/badge/Java-0B1524?style=for-the-badge&logo=openjdk&logoColor=65D6D1)
@@ -192,7 +136,7 @@ Using **Python, PyTorch, and Hugging Face Transformers**, I investigated model b
 ![JavaScript](https://img.shields.io/badge/JavaScript-0B1524?style=for-the-badge&logo=javascript&logoColor=65D6D1)
 ![SQL](https://img.shields.io/badge/SQL-0B1524?style=for-the-badge&logo=postgresql&logoColor=65D6D1)
 
-**PRODUCT ENGINEERING**
+**Apps & Interfaces**
 
 ![React](https://img.shields.io/badge/React-0B1524?style=for-the-badge&logo=react&logoColor=65D6D1)
 ![Next.js](https://img.shields.io/badge/Next.js-0B1524?style=for-the-badge&logo=nextdotjs&logoColor=65D6D1)
@@ -201,14 +145,14 @@ Using **Python, PyTorch, and Hugging Face Transformers**, I investigated model b
 ![MySQL](https://img.shields.io/badge/MySQL-0B1524?style=for-the-badge&logo=mysql&logoColor=65D6D1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1524?style=for-the-badge&logo=postgresql&logoColor=65D6D1)
 
-**ARTIFICIAL INTELLIGENCE & DATA**
+**AI & Data**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-0B1524?style=for-the-badge&logo=pytorch&logoColor=65D6D1)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-0B1524?style=for-the-badge&logo=huggingface&logoColor=65D6D1)
 ![NumPy](https://img.shields.io/badge/NumPy-0B1524?style=for-the-badge&logo=numpy&logoColor=65D6D1)
 ![Pandas](https://img.shields.io/badge/Pandas-0B1524?style=for-the-badge&logo=pandas&logoColor=65D6D1)
 
-**DESIGN & WORKFLOW**
+**Design & Workflow**
 
 ![Figma](https://img.shields.io/badge/Figma-0B1524?style=for-the-badge&logo=figma&logoColor=65D6D1)
 ![Git](https://img.shields.io/badge/Git-0B1524?style=for-the-badge&logo=git&logoColor=65D6D1)
@@ -217,60 +161,51 @@ Using **Python, PyTorch, and Hugging Face Transformers**, I investigated model b
 
 </div>
 
-<br/>
+<br />
 
 ---
 
-## `05 / BEYOND THE TERMINAL`
+## Beyond the terminal
 
-### Not everything is written in code.
+There's a lot more going on than code.
 
-Some things are better expressed through melodies, ideas, stories, or a different perspective.
+🎵 **Music** — Singing, melodies, and occasionally finding the right song for the wrong mood.
 
-| | |
-|:---|:---|
-| 🎵 **Music** | The art of expression. Singing, melodies, and the emotions that words can't always carry. |
-| 🎨 **Design** | The beauty of intention. Finding elegance in simplicity and meaning in details. |
-| 🧠 **Psychology** | Understanding how people think, behave, perceive, and make decisions. |
-| ♟️ **Strategy** | Seeing patterns, exploring possibilities, and thinking a few moves ahead. |
-| 🎮 **Gaming** | Exploring worlds, understanding mechanics, and appreciating interactive experiences. |
-| 🌌 **Curiosity** | Asking questions that usually lead to even more questions. |
+🎨 **Design** — Posters, interfaces, tiny details, and the satisfaction of getting something *just right*.
 
-<br/>
+🧠 **Psychology** — Why people notice what they notice, remember what they remember, and do what they do.
+
+♟️ **Strategy** — Games, patterns, and figuring out what the other side might do next.
+
+🎮 **Gaming** — Sometimes for the story. Sometimes for the mechanics. Sometimes just to unwind.
+
+🌌 **Curiosity** — Usually the reason any of the above turns into a project.
+
+<br />
 
 ---
 
-## `06 / THE SIGNAL`
+## Say hello
 
-### Find me somewhere in the digital universe.
+If you've got an interesting idea, a project to collaborate on, or just want to talk tech (or music), I'd love to hear about it.
 
 <div align="center">
 
-I'm always interested in interesting problems, thoughtful ideas, and opportunities to build something meaningful.
+[![About Me](https://img.shields.io/badge/ABOUT_ME-0B1524?style=for-the-badge&logo=readme&logoColor=65D6D1)](https://bold.pro/my/sasmit-mishra)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B1524?style=for-the-badge&logo=linkedin&logoColor=65D6D1)](https://linkedin.com/in/sasmit-mishra-32848027b)
+[![Email](https://img.shields.io/badge/EMAIL-0B1524?style=for-the-badge&logo=gmail&logoColor=65D6D1)](mailto:sasmit.mishra@gmail.com)
 
-**Have something in mind? Let's connect.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-0B1524?style=for-the-badge&logo=github&logoColor=65D6D1)](https://github.com/SusMyth)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1524?style=for-the-badge&logo=linkedin&logoColor=65D6D1)](https://linkedin.com/in/sasmit-mishra-32848027b)
-[![Email](https://img.shields.io/badge/Email-0B1524?style=for-the-badge&logo=gmail&logoColor=65D6D1)](mailto:sasmit.mishra@gmail.com)
-
-<br/>
-
----
-
-<br/>
+<br />
 
 ### The world is full of patterns.
 
 *Some are meant to be understood.*  
 *Others are meant to be rewritten.*
 
-<br/>
-
 **`OBSERVE. UNDERSTAND. CREATE.`**
 
-<sub>THE OBSERVER · SASMIT MISHRA · END OF FILE_</sub>
+<sub>Sasmit Mishra · The Observer</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1C7A83,50:123D50,100:080F1D&height=120&section=footer" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1C7A83,50:123D50,100:080F1D&height=120&section=footer" alt="Footer" />
 
 </div>
