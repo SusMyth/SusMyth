@@ -19,8 +19,8 @@ I enjoy breaking down complex systems, understanding what makes them tick, and b
 
 | Project | Description | Tech |
 |---|---|---|
-| **[Scheduler](https://github.com/SusMyth/Scheduler))** | A visual scheduling tool with interactive time-blocking and multiple calendars. | React, Next.js, TypeScript |
-| **[Mandelbrot Explorer](https://github.com/SusMyth/Fractal-Mandelbrot-Explorer))** | An interactive fractal renderer optimized with multithreading. | Java, JavaFX |
+| **[Scheduler](https://github.com/SusMyth/Scheduler)** | A visual scheduling tool with interactive time-blocking and multiple calendars. | React, Next.js, TypeScript |
+| **[Mandelbrot Explorer](https://github.com/SusMyth/Fractal-Mandelbrot-Explorer)** | An interactive fractal renderer optimized with multithreading. | Java, JavaFX |
 | **[Echoasis](https://github.com/SusMyth/Echoasis)** | A desktop application for recording, transcribing, and managing audio. | Python, MySQL |
 
 
