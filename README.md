@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @SusMyth
-- 👀 I’m interested in singing, gaming, editing, coding
-- 🌱 I’m currently learning Java
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a CS major who takes a shower everyday (exceptionally human XD)
+# Hey, I'm Sasmit 👋
+
+*An observer by instinct. An engineer by curiosity.*
+
+I'm a Computer Science student at **Rochester Institute of Technology**, drawn to the space where **technology, human behavior, and creativity** intersect.
+
+I enjoy breaking down complex systems, understanding what makes them tick, and building things that make sense to both machines and people.
+
+- 🔭 **Exploring:** AI, Product Engineering, Human-Computer Interaction
+- 🧠 **Researching:** LLM safety, quantization, and model robustness
+- 🛠️ **Building:** Interactive tools, intelligent systems, and experiences worth using
+- 🎨 **Beyond the code:** Classical music, design, psychology, gaming, and storytelling
+- ⚡ **A little about me:** I tend to observe first, question everything, and create when curiosity wins.
+
+**Observe. Understand. Create.**
 
 
 ## 🌐 Socials:
